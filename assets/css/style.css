@@ -62,7 +62,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header * {
-  transition: ease-in-out 0.3s;
+    transition: ease-in-out 0.3s;
+    color: #0CAE00;
 }
 
 #header h1 {
@@ -75,15 +76,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header h1 a, #header h1 a:hover {
-  color: #fff;
-  line-height: 1;
-  display: inline-block;
+    color: #0CAE00;
+    line-height: 1;
+    display: inline-block;
 }
 
 #header h2 {
-  font-size: 24px;
-  margin-top: 20px;
-  color: rgba(255, 255, 255, 0.8);
+    font-size: 24px;
+    margin-top: 20px;
+    color: #0CAE00;
 }
 
 #header h2 span {
